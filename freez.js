@@ -12,3 +12,5 @@ delete bottle.isCleaned
 console.log(bottle); // output: { color: 'blue', price: '435' }
 
 // add property
+
+
